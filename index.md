@@ -1,12 +1,11 @@
 # Demonstration for TEI2024
 ## shapechangealbe display(image)
 ### link
-[url](https://google.com)
+[video in google drive](https://drive.google.com/file/d/1hwfWa-LWtm4lUX7tfkbUUyHBgaoEK32d/view?usp=sharing)
 ### explanation
-hogehoge...
+demonstration video for TEI2024
 
-## shapechangeable display(just coordinate)
+## source code
 ### link
-[url](https://google.com)
-### explanation
-fugafuga
+[written in rust](https://github.com/kons-9/shapechangeable-computer)  
+[written in c++](https://github.com/kons-9/shapechangeable_cpp)(WIP)
